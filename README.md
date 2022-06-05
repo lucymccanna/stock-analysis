@@ -7,7 +7,7 @@ VBA was used to automate the analysis of twelve different green energy stocks. T
 ## Results
 In 2017, the annual return for 11 out of the 12 selected stocks was positive, with DQ having the highest performing stock at 199% return. The following year, only 2 of the 12 stocks had positive returns, ENPH and RUN (see Images 1 and 2). 
 
-    ***Image 1*** 2017 All Stocks Analysis: 
+    *** Image 1 *** 2017 All Stocks Analysis: 
 ![This is an image](https://github.com/lucymccanna/stock-analysis/blob/e1bdd7156cc18728c8aab478dfe6a4571b7307dc/Resources/AllStocks_2017.png)
 
     **Image 2** 2018 All Stocks Analysis: 
